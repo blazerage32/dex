@@ -70,11 +70,5 @@ Hatterene
 
 Annihilape
 
-Jolteon
-
-Leafeon
-
-Magnezone
-
 Kingambit
 
