@@ -10,12 +10,6 @@ Zangoose
 
 Seviper
 
-Hatenna
-
-Hattrem
-
-Hatterene
-
 Banette
 
 Spiritomb
@@ -84,24 +78,22 @@ Blissey
 
 
 
-**Walking**
+**Evolution (requires levelling)**
 
-Brambleghast
+Hattrem
+
+Hatterene
 
 
 **Evolution (not standard levelling)**
 
 Annihilape
 
-Goodra
-
 Jolteon
 
 Leafeon
 
 Magnezone
-
-Polteageist
 
 Kingambit
 
