@@ -44,10 +44,6 @@ Slither Wing
 
 Sandy Shocks
 
-Iron Moth
-
-Iron Thorns
-
 Koraidon
 
 
