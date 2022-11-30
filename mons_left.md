@@ -52,25 +52,6 @@ Koraidon
 
 
 
-**Breeding**
-
-Drowsy
-
-Slakoth
-
-Bounsweet
-
-Petilil
-
-Bonzor
-
-Gothita
-
-Pineco
-
-Skrelp
-
-
 
 **Happiness**
 
